@@ -24,6 +24,4 @@ Data Engineering: SQLAlchemy, pyODBC, Pandas SQL
 
 Version Control: Git & GitHub
 
-Cloud (basic): Google BigQuery, Azure SQL (future learning path)
-
 Soft Skills: Data storytelling, business requirement gathering, problem-solving
