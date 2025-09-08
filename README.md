@@ -96,46 +96,23 @@ I have experience working with real-world datasets from **sports, retail, bankin
 
 **[Superstore Excel Sales Analysis](https://github.com/Ragul-dataAnalyst/super_store_Excel_analysis-)**
 
-* **Data Preparation**: Used Power Query to clean and transform raw superstore data into structured tables.
-* **Data Modeling**: Created relationships between Orders, Products, and Sales tables.
-* **Analysis with PivotTables**:
+* Cleaned and structured raw superstore data using Power Query.
+* Analyzed sales, profit, and customer trends with PivotTables.
+* Created an interactive dashboard with KPIs and filters for dynamic insights.
 
-  * Sales by Region, Profit by Category, Top Customers, Discount vs Sales.
-* **Interactive Dashboard**:
-
-  * KPIs: Sales, Profit, Orders, Margins, Delivery Days.
-  * Slicers & Timeline filters for Category, Region, Segment.
-* **Skills**: Data cleaning with Power Query, PivotTables, PivotCharts, dashboard design.
-
----
 
 **[Bike Sales Analysis](https://github.com/Ragul-dataAnalyst/bike_sales_excel_analysis)**
 
-* **Data Preparation**: Cleaned sales data for different bike models, categories, and regions.
-* **Analysis with PivotTables**:
+* Prepared bike sales data by model, category, and region.
+*  Summarized revenue, quantity sold, and customer preferences with PivotTables.
+* Built an interactive dashboard with KPIs and slicers for analysis.
 
-  * Revenue and quantity sold by model and region.
-  * Yes/No response summary tables for customer preferences.
-* **Interactive Dashboard**:
-
-  * KPIs: Total Revenue, Units Sold, Customer Preferences.
-  * Slicers & filters for model, category, and region.
-* **Skills**: PivotTables, PivotCharts, dashboard creation, data summarization.
-
----
 
 **[Amazon Sales Analysis](https://github.com/Ragul-dataAnalyst/Amazon_sales_excel_data_analysis)**
 
-* **Data Preparation**: Structured Amazon sales dataset by branch and product line.
-* **Analysis with PivotTables**:
-
-  * Branch revenue contribution and product line revenue vs quantity sold.
-* **Interactive Dashboard**:
-
-  * KPIs: Total Revenue, Quantity Sold, Branch Contribution %.
-  * Slicers for branch and product line for dynamic analysis.
-* **Skills**: PivotTables, PivotCharts, interactive dashboard, revenue and quantity analysis.
-
+* Organized Amazon sales data by branch and product line.
+* Analyzed revenue contribution and quantity sold using PivotTables.
+* Developed an interactive dashboard with KPIs and filters for branches and product lines.
 
 ## 🎓 Education
 
