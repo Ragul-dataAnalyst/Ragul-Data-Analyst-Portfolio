@@ -125,5 +125,5 @@ I have experience working with real-world datasets from **sports, retail, bankin
 ## 📬 Contact
 
 * **Email**: [supervragul@gmail.com](mailto:supervragul@gmail.com)
-**LinkedIn**: [Ragul Chithra](https://www.linkedin.com/in/ragulcric)
+* **LinkedIn**: [Ragul R](https://www.linkedin.com/in/ragulcric)
 
