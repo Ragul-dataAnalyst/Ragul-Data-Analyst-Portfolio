@@ -109,6 +109,34 @@ I have experience working with real-world datasets from **sports, retail, bankin
 
 ---
 
+**[Bike Sales Analysis](https://github.com/yourusername/bike_sales_analysis)**
+
+* **Data Preparation**: Cleaned sales data for different bike models, categories, and regions.
+* **Analysis with PivotTables**:
+
+  * Revenue and quantity sold by model and region.
+  * Yes/No response summary tables for customer preferences.
+* **Interactive Dashboard**:
+
+  * KPIs: Total Revenue, Units Sold, Customer Preferences.
+  * Slicers & filters for model, category, and region.
+* **Skills**: PivotTables, PivotCharts, dashboard creation, data summarization.
+
+---
+
+**[Amazon Sales Analysis](https://github.com/yourusername/amazon_sales_analysis)**
+
+* **Data Preparation**: Structured Amazon sales dataset by branch and product line.
+* **Analysis with PivotTables**:
+
+  * Branch revenue contribution and product line revenue vs quantity sold.
+* **Interactive Dashboard**:
+
+  * KPIs: Total Revenue, Quantity Sold, Branch Contribution %.
+  * Slicers for branch and product line for dynamic analysis.
+* **Skills**: PivotTables, PivotCharts, interactive dashboard, revenue and quantity analysis.
+
+
 ## 🎓 Education
 
 * **Jeppiaar University** – Bachelor's in Computer Science, CGPA: 9.62
