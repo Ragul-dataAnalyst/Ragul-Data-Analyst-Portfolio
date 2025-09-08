@@ -109,7 +109,7 @@ I have experience working with real-world datasets from **sports, retail, bankin
 
 ---
 
-**[Bike Sales Analysis](https://github.com/yourusername/bike_sales_analysis)**
+**[Bike Sales Analysis](https://github.com/Ragul-dataAnalyst/bike_sales_excel_analysis)**
 
 * **Data Preparation**: Cleaned sales data for different bike models, categories, and regions.
 * **Analysis with PivotTables**:
@@ -124,7 +124,7 @@ I have experience working with real-world datasets from **sports, retail, bankin
 
 ---
 
-**[Amazon Sales Analysis]([https://github.com/yourusername/amazon_sales_analysis](https://github.com/Ragul-dataAnalyst/Amazon_sales_excel_data_analysis))**
+**[Amazon Sales Analysis](https://github.com/Ragul-dataAnalyst/Amazon_sales_excel_data_analysis)**
 
 * **Data Preparation**: Structured Amazon sales dataset by branch and product line.
 * **Analysis with PivotTables**:
