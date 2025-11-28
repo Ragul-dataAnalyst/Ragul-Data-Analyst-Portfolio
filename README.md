@@ -28,13 +28,13 @@ I have experience working with real-world datasets from **sports, retail, bankin
 
 ### 🐍 Python Projects
 
-**[COVID-19 Time Series Analysis (Johns Hopkins Dataset)](https://github.com/Ragul-dataAnalyst/covid_data_analysis)**
+**[COVID-19 regular data analysis](https://github.com/Ragul-dataAnalyst/covid_data_analysis)**
 
 * Analyzed COVID-19 data using Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly).
 * Tracked confirmed cases, deaths, and recoveries globally.
 * Built interactive visualizations to illustrate pandemic trends over time.
 
-**[COVID-19 Regular Dataset Analysis](https://github.com/Ragul-dataAnalyst/COVID-19-Analysis)**
+**[COVID-19 Time Series Analysis (Johns Hopkins Dataset)](https://github.com/Ragul-dataAnalyst/COVID-19-Analysis)**
 
 * Analyzed COVID-19 data from a country-wise dataset.
 * Used Python for EDA, cleaning, and visualization.
